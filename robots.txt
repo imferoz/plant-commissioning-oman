@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plant-commissioning-oman.alwejhagroup.com/sitemap.xml
